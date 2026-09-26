@@ -1,0 +1,1 @@
+{"additionalProperties":false,"properties":{"city":{"type":"string"},"zip":{"default":"00000","type":"string"}},"required":["city"],"type":"object"}
