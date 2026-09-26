@@ -1,0 +1,1 @@
+{"guided_json":{"properties":{"city":{"type":"string"}},"type":"object"},"messages":[{"content":"What city?","role":"user"}],"model":"Qwen/Qwen3-8B","response_format":{"type":"json_object"}}
