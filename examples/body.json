@@ -1,0 +1,1 @@
+{"messages":[{"content":"What city is this invoice from?","role":"user"}],"model":"Qwen/Qwen3-8B","response_format":{"json_schema":{"name":"invoice","schema":{"additionalProperties":false,"properties":{"city":{"type":"string"},"zip":{"type":"string"}},"required":["city"],"type":"object"},"strict":true},"type":"json_schema"}}
