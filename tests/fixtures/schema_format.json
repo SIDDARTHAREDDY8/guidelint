@@ -1,0 +1,1 @@
+{"properties":{"email":{"format":"email","type":"string"},"when":{"format":"date-time","type":"string"}},"type":"object"}
