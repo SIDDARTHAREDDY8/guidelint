@@ -1,0 +1,1 @@
+{"properties":{"event":{"oneOf":[{"properties":{"location":{"type":"string"}},"required":["location"],"type":"object"},{"properties":{"timestamp":{"type":"string"}},"required":["timestamp"],"type":"object"}]},"sku":{"pattern":"^[A-Z]{3}-\\d{4}$","type":"string"}},"type":"object"}
