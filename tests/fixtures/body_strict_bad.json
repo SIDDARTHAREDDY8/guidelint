@@ -1,0 +1,1 @@
+{"messages":[{"content":"Extract the address.","role":"user"}],"model":"gpt-4o-mini","response_format":{"json_schema":{"name":"address","schema":{"additionalProperties":false,"properties":{"street":{"type":"string"},"zip":{"default":"00000","type":"string"}},"required":["street"],"type":"object"},"strict":true},"type":"json_schema"}}
